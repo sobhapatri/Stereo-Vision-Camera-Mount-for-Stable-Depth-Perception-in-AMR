@@ -40,4 +40,4 @@ This project involves the mechanical design, simulation, fabrication, and integr
 - Enabled **stable stereo vision data perception** under dynamic operational conditions.  
 
 ---
-]
+
